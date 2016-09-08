@@ -4,4 +4,4 @@ engine utilized was licensed to allow him to do so. Though this is an important 
 needed to do, and what propective software developers should do, is make end users sign a usage agreement stating that they will only use
 your software for it's intended purpose, so that people like pirates get themselves in trouble while you are protected.
 
-d3. ![screenshot](https://github.com/grubeb2/CSCI2693/blob/master/Screen%20Shot%202016-09-07%20at%209.51.07%20PM.png)
+d3. ![screenshot](https://github.com/grubeb2/CSCI2693/blob/master/Screen_Shot.png?raw=true)
