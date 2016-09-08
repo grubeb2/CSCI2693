@@ -7,3 +7,5 @@ your software for it's intended purpose, so that people like pirates get themsel
 d3. ![screenshot](https://github.com/grubeb2/CSCI2693/blob/master/Screen_Shot.png?raw=true)
 
 e2. ![screenshot2](https://github.com/grubeb2/CSCI2693/blob/master/Screen_Shot2.png?raw=true)
+
+e3. ![screenshot3](https://github.com/grubeb2/CSCI2693/blob/master/Screen_Shot3.png?raw=true)
