@@ -9,3 +9,5 @@ d3. ![screenshot](https://github.com/grubeb2/CSCI2693/blob/master/Screen_Shot.pn
 e2. ![screenshot2](https://github.com/grubeb2/CSCI2693/blob/master/Screen_Shot2.png?raw=true)
 
 e3. ![screenshot3](https://github.com/grubeb2/CSCI2693/blob/master/Screen_Shot3.png?raw=true)
+
+f2. ![screenshot4](https://github.com/grubeb2/CSCI2693/blob/master/Screen_Shot4.png?raw=true)
