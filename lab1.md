@@ -1,3 +1,7 @@
+c2. Other ways of asking smart questions online are:
+  - Before you ask a question about why your code is wrong, try approaching your problem from a different angle. If you find that you can't see another method of solving your problem, search how others solved a similar problem and try to build off the ideas they used in their code.
+  - When seeking help for a difficult or highly specific question, don't get desperate and read entire articles on the off chance it'll turn out to be relevant. Search for keywords specific to your problem, and if you can't find any, move on.
+
 c3. Jesse's story is a warning to would-be developers out there looking to start their own online project. Jesse was punished because he 
 didn't take the proper precautions protecting himself from legal repercussions. Jesse should have made sure that every program his search
 engine utilized was licensed to allow him to do so. Though this is an important step, it would not have helped Jesse's case. What Jesse 
