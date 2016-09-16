@@ -14,7 +14,8 @@
 
 9. Groups that can't decide where to eat will use this app to choose a restaurant for them. Users join groups and then contribute to the group's list of possible restaurants. Then users add their preferences, like what they want to eat or where they want to go, and then the app tells them where they are going to eat.
 
-10. 
+10. Website ==> License
+
 https://github.com/wtg/shuttle_tracking_2 ==> MIT
 
 https://github.com/Submitty/Submitty ==> BSD
