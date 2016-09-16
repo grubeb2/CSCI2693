@@ -1,3 +1,5 @@
+1. Why are we not using plain text files that don't enforce stupid formatting rules?
+
 2. It is important to choose a license in order to declare what freedoms users of your project have. It also defines rules regarding how others can modify and distribute your work.
 
 3. Projects without an explicit license automatically use the default one. On GitHub that means all rights reserved. When a project is all rights reserved, you can't modify it in any way. You can get into legal trouble if you publish a project that was modified from one with all rights reserved.
