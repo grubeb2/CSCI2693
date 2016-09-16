@@ -17,7 +17,11 @@
 10. 
 Website												                                          License
 https://github.com/wtg/shuttle_tracking_2	                                MIT
+
 https://github.com/Submitty/Submitty					                            BSD
+
 https://github.com/FullScreenShenanigans/FullScreenPokemon                MIT
+
 https://github.com/harrij15/SquareMeals                                   BSD 3-Clause
+
 https://github.com/TheoBr/Chrometana                                      MIT
