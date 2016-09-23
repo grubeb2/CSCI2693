@@ -1,3 +1,3 @@
 https://github.com/grubeb2/lab3part1
 
-![gitk](CSCI2693/imgs/gitk_screenshot.png)
+![gitk](https://raw.githubusercontent.com/grubeb2/CSCI2693/master/imgs/gitk_screenshot.png)
