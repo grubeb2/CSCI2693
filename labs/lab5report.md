@@ -48,5 +48,5 @@ int main(int argc, char* argv[])
   return 0;
 }
 </code></pre></li>
-<li> ![wEgFAvb.png][http://i.imgur.com/wEgFAvb.png] </li>
 </ul>
+![wEgFAvb.png](http://i.imgur.com/wEgFAvb.png)
