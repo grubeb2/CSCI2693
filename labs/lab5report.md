@@ -48,5 +48,6 @@ int main(int argc, char* argv[])
   return 0;
 }
 </code></pre></li>
+<li>Output</li>
 </ul>
-![wEgFAvb.png](http://i.imgur.com/wEgFAvb.png)
+![Step1Output](http://i.imgur.com/wEgFAvb.png)
