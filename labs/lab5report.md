@@ -1,5 +1,5 @@
 Step 1:
 <ul>
-<li>Bird</li>
-<li>Magic</li>
+<li><pre><code>This is a code block.
+</code></pre></li>
 </ul>
