@@ -1,3 +1,1 @@
-- Step 1
 
--- Hello World!
