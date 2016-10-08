@@ -174,7 +174,7 @@ install (FILES MathFunctions.h DESTINATION include)
 <li>MathFunctions/MathFunctions.h
 <pre><code>double mysqrt(double x);
 </code></pre></li>
-<li>mysqrt.xx
+<li>MathFunctions/mysqrt.xx
 <pre><code>#include "MathFunctions.h"
 #include <stdio.h>
 
@@ -202,4 +202,6 @@ double mysqrt(double x)
   return result;
 }
 </code></pre></li>
+<li>Outpus</li>
 </ul>
+![Step2Output](http://i.imgur.com/L6PsGki.png)
