@@ -202,6 +202,6 @@ double mysqrt(double x)
   return result;
 }
 </code></pre></li>
-<li>Outpus</li>
+<li>Output</li>
 </ul>
 ![Step2Output](http://i.imgur.com/L6PsGki.png)
