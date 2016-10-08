@@ -208,7 +208,7 @@ double mysqrt(double x)
 
 Step 3:
 <ul>
-<li>CmakeLists.txt
+<li>CMakeLists.txt
 <pre><code>cmake_minimum_required (VERSION 2.6)
 project (Tutorial)
 
