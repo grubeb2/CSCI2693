@@ -4,5 +4,5 @@ Part 1:
 
 	2. My findings match those from GitStats, including lines of code and commits.
 
-	3. https://youtu.be/xtB97c9mABU
-	https://youtu.be/ObAIntadb_A
+	3. 	https://youtu.be/xtB97c9mABU
+		https://youtu.be/ObAIntadb_A
