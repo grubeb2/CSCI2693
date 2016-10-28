@@ -8,6 +8,6 @@ Part 1:
 		https://youtu.be/ObAIntadb_A
 
 Part 2:
-	![markdown.py](https://github.com/grubeb2/markdown.py/blob/master/markdown.py)
+	markdown.py: https://github.com/grubeb2/markdown.py/blob/master/markdown.py
 
-	![test_markdown_unittest.py](https://github.com/grubeb2/markdown.py/blob/master/test_markdown_unittest.py)
+	test_markdown_unittest.py: https://github.com/grubeb2/markdown.py/blob/master/test_markdown_unittest.py
